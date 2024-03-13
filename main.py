@@ -1,5 +1,5 @@
 # https://streamlit.io/
-# streamlit run D:\streamlit_app\example.py [ARGUMENTS]
+# streamlit run D:\streamlit_app\main.py [ARGUMENTS]
 
 """
 Пример приложения streamlit
