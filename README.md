@@ -1,6 +1,8 @@
 
 ### Пример проекта на streamlit
 
+https://my-app-example.streamlit.app/
+
 ---
 
 https://streamlit.io/
